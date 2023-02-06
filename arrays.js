@@ -12,6 +12,8 @@ for(x of months){
 }
 
 
+
+
 let cars = new Array('Ford','Toyota','BMW')
 console.log(cars)
 console.log(cars[1])
